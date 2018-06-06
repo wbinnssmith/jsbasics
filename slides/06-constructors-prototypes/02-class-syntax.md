@@ -14,7 +14,7 @@ class Person {
   }
 
   sayName() {
-    return name;
+    return this.name;
   }
 }
 
